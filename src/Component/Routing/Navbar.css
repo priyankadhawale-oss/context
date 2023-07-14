@@ -1,0 +1,16 @@
+a{
+    text-decoration: none;
+    color: beige;
+   
+}
+.active{
+    color: aqua;
+    font-weight: bold;
+}
+.abc{
+    width: 100%;
+    height: 20%;
+   
+    background-color: black;
+
+}
